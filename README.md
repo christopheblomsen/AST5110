@@ -21,16 +21,16 @@ University of Colorado, Cambridge University Press
 
 * K. W. Morton and D. F. Mayers.<br>
 Numerical Solution of Partial Differential Equations: And introduction.<br>
-Computing Laboratory, University of Oxford, Cambridge University Press. 
+Computing Laboratory, University of Oxford, Cambridge University Press.
 
 
 ## Dependencies
 
 * Anaconda 3 includes most of the required libraries.
 
-* We will have tests to run in CI/CD, so [pytest](https://docs.pytest.org/) will be convenient. 
+* We will have tests to run in CI/CD, so [pytest](https://docs.pytest.org/) will be convenient.
 
-* For good practices and clean the code [pre-commit](https://pre-commit.com). Run pre-commit run -a to clean the code. 
+* For good practices and clean the code [pre-commit](https://pre-commit.com). Run pre-commit run -a to clean the code.
 
 * In addition, you will create your own python library.
 As a starting point, fork the
